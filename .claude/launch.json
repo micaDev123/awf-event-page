@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "awf-event",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "/Users/michaelcatapang/projects/awf-event-page", "-l", "3456"],
+      "port": 3456
+    }
+  ]
+}
